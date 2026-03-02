@@ -1,2 +1,2 @@
-# kunalsahaMITVPU.github.io
+# ksmitvpu.github.io
 Kunal Saha
